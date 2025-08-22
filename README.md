@@ -1,12 +1,15 @@
-## 💻 Cybersecurity Portfolio
+## 💻 Cybersecurity Portfolio  
 
 ### 🔒 Professional Statement  
+
 I am pursuing a career in cybersecurity driven by a strong interest in protecting systems and data from evolving threats. I bring analytical thinking, attention to detail, and a commitment to continuous learning. With a foundation in Python, Linux, and cybersecurity tools, I am prepared to support secure, efficient environments. I value integrity, follow legal and ethical standards, and maintain professionalism through punctuality and reliability. My strengths and values align with the mission of organizations seeking trustworthy, skilled cybersecurity professionals. 🔐  
 
 ---
 
 ### 🛠 Tools  
+
 Here are some of the tools I use to secure systems and analyze threats:  
+
 - 🔍 Nmap  
 - 📊 Wireshark  
 - 🐧 Linux  
@@ -15,7 +18,9 @@ Here are some of the tools I use to secure systems and analyze threats:
 ---
 
 ### 📑 Reports  
+
 Some of my key reports related to cybersecurity projects and assessments:  
+
 - [Apply Filters to SQL Queries](./Reports/Apply%20Filters%20to%20SQL%20Queries.pdf)  
 - [DNS Incident Report](./Reports/dns-incident-report.pdf)  
 - [Incident Handler](./Reports/Incident%20Handler.pdf)  
@@ -29,21 +34,12 @@ Some of my key reports related to cybersecurity projects and assessments:
 ---
 
 ### 🎓 Certificates  
+
 - 📜 [Google Cybersecurity Certificate](./Certificate/Google%20Cybersecurity%20Certificate.pdf)  
 - 🏅 ![IIT Roorkee Certificate](./Certificate/IIT_roorkee.jpg)  
 
 ---
 
-### 📘 Learning Journey (Ongoing)  
-I am documenting my progress through labs, exercises, and platforms like TryHackMe & HackTheBox.  
-
-- [Day 1 – Section 1 Recap](./learning-journey/notes/day1.md)  
-- [Day 2 – Networking Fundamentals](./learning-journey/notes/day2.md) (coming soon)  
-- THM Writeups: [View here](./learning-journey/thm-writeups/)  
-
-> 🚀 This section proves continuous learning. Each note reflects skills gained daily/weekly.  
-
----
-
 ### 🌐 LinkedIn  
+
 Connect with me: [linkedin.com/in/manjeeshkv](https://www.linkedin.com/in/manjeeshkv) 🔗
