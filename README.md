@@ -40,6 +40,9 @@ Some of my key reports related to cybersecurity projects and assessments:
 
 ---
 
+### Learning 
+ - [CompTia Security+]
+
 ### 🌐 LinkedIn  
 
 Connect with me: [linkedin.com/in/manjeeshkv](https://www.linkedin.com/in/manjeeshkv) 🔗
