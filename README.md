@@ -36,12 +36,9 @@ Some of my key reports related to cybersecurity projects and assessments:
 ### 🎓 Certificates  
 
 - 📜 [Google Cybersecurity Certificate](./Certificate/Google%20Cybersecurity%20Certificate.pdf)  
-- 🏅 ![IIT Roorkee Certificate](./Certificate/IIT_roorkee.jpg)  
+- 🏅 [IIT Roorkee Certificate](./Certificate/IIT_roorkee.jpg)  
 
 ---
-
-### Learning 
- - [CompTia Security+]
 
 ### 🌐 LinkedIn  
 
